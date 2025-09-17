@@ -8,4 +8,4 @@
 
 print("Hello, world!")
 print("Lincoln Fiser")
-print("My favorite hobby is Golfing during the summer."
+print("My favorite hobby is Golfing during the summer.")

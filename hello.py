@@ -7,3 +7,5 @@
 # 3. Add another print statement with your favorite hobby.
 
 print("Hello, world!")
+print("Lincoln Fiser")
+print("My favorite hobby is Golfing during the summer."
